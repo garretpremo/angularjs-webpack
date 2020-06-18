@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/garretpremo/angularjs-webpack#readme",
   "dependencies": {
-    "angular": "1.5.11"
+    "angular": "1.8.0"
   },
   "devDependencies": {
     "css-loader": "^3.2.0",
